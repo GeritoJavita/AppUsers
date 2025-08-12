@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .navbar-brand {
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+  }
+  
+  .card {
+    border-radius: 12px;
+  }
+  
+  .btn-light {
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .btn-light:hover {
+    background-color: #ccc;
+    color: black;
+  }
+  
